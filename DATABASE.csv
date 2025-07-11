@@ -1,0 +1,415 @@
+root,scale,scale_note_order,scale_note,chord,chord_note
+C,menor,1,C,Cm,C - D# - G
+C,menor,2,D,Ddim,D - F - G#
+C,menor,3,D#,D#,D# - G - A#
+C,menor,4,F,Fm,F - G# - C
+C,menor,5,G,Gm,G - A# - D
+C,menor,6,G#,G#,G# - C - D#
+C,menor,7,A#,A#,A# - D - F
+C,frigia,1,C,Cm,C - D# - G
+C,frigia,2,C#,C#,C# - F - G#
+C,frigia,3,D#,D#m,D# - F# - A#
+C,frigia,4,F,Fm,F - G# - C
+C,frigia,5,G,Gdim,G - A# - C#
+C,frigia,6,G#,G#,G# - C - D#
+C,frigia,7,A#,A#m,A# - C# - F
+C,armonica,1,C,CmMaj7,C - D# - G - B
+C,armonica,2,D,Ddim,D - F - G#
+C,armonica,3,D#,D#aug,D# - G - B
+C,armonica,4,F,Fm,F - G# - C
+C,armonica,5,G,G7,G - B - D - F
+C,armonica,6,G#,G#,G# - C - D#
+C,armonica,7,B,Bdim,B - D - F
+C#,menor,,C#,C#m,C# - E - G#
+C#,menor,,D#,D#dim,D# - F# - A
+C#,menor,,E,E,E - G# - B
+C#,menor,,F#,F#m,F# - A - C#
+C#,menor,,G#,G#m,G# - B - D#
+C#,menor,,A,A,A - C# - E
+C#,menor,,B,B,B - D# - F#
+C#,frigia,,C#,C#m,C# - E - G#
+C#,frigia,,D,D,D - F# - A
+C#,frigia,,E,Em,E - G - B
+C#,frigia,,F#,F#m,F# - A - C#
+C#,frigia,,G#,G#dim,G# - B - D
+C#,frigia,,A,A,A - C# - E
+C#,frigia,,B,Bm,B - D - F#
+C#,armonica,,C#,C#mMaj7,C# - E - G# - C
+C#,armonica,,D#,D#dim,D# - F# - A
+C#,armonica,,E,Eaug,E - G# - C
+C#,armonica,,F#,F#m,F# - A - C#
+C#,armonica,,G#,G#7,G# - C - D# - F#
+C#,armonica,,A,A,A - C# - E
+C#,armonica,,C,Cdim,C - D# - F#
+D,menor,,D,Dm,D - F - A
+D,menor,,E,Edim,E - G - A#
+D,menor,,F,F,F - A - C
+D,menor,,G,Gm,G - A# - D
+D,menor,,A,Am,A - C - E
+D,menor,,A#,A#,A# - D - F
+D,menor,,C,C,C - E - G
+D,frigia,,D,Dm,D - F - A
+D,frigia,,D#,D#,D# - G - A#
+D,frigia,,F,Fm,F - G# - C
+D,frigia,,G,Gm,G - A# - D
+D,frigia,,A,Adim,A - C - D#
+D,frigia,,A#,A#,A# - D - F
+D,frigia,,C,Cm,C - D# - G
+D,armonica,,D,DmMaj7,D - F - A - C#
+D,armonica,,E,Edim,E - G - A#
+D,armonica,,F,Faug,F - A - C#
+D,armonica,,G,Gm,G - A# - D
+D,armonica,,A,A7,A - C# - E - G
+D,armonica,,A#,A#,A# - D - F
+D,armonica,,C#,C#dim,C# - E - G
+D#,menor,,D#,D#m,D# - F# - A#
+D#,menor,,F,Fdim,F - G# - B
+D#,menor,,F#,F#,F# - A# - C#
+D#,menor,,G#,G#m,G# - B - D#
+D#,menor,,A#,A#m,A# - C# - F
+D#,menor,,B,B,B - D# - F#
+D#,menor,,C#,C#,C# - F - G#
+D#,frigia,,D#,D#m,D# - F# - A#
+D#,frigia,,E,E,E - G# - B
+D#,frigia,,F#,F#m,F# - A - C#
+D#,frigia,,G#,G#m,G# - B - D#
+D#,frigia,,A#,A#dim,A# - C# - E
+D#,frigia,,B,B,B - D# - F#
+D#,frigia,,C#,C#m,C# - E - G#
+D#,armonica,,D#,D#mMaj7,D# - F# - A# - D
+D#,armonica,,F,Fdim,F - G# - B
+D#,armonica,,F#,F#aug,F# - A# - D
+D#,armonica,,G#,G#m,G# - B - D#
+D#,armonica,,A#,A#7,A# - D - F - G#
+D#,armonica,,B,B,B - D# - F#
+D#,armonica,,D,Ddim,D - F - G#
+E,menor,1,E,Em,E - G - B
+E,menor,1,E,Em7,E - G - B - D
+E,menor,1,E,Em9,E - G - B - D - F#
+E,menor,2,F#,F#dim,F# - A - C
+E,menor,3,G,G,G - B - D
+E,menor,4,A,Am,A - C - E
+E,menor,4,A,Am7,A - C - E - G
+E,menor,5,B,Bm,B - D - F#
+E,menor,5,B,Bm7,B - D - F# - A
+E,menor,6,C,C,C - E - G
+E,menor,7,D,D,D - F# - A
+E,menor,7,D,D7,D - F# - A - C
+E,menor,1,E,Em11,E - G - B - D - F# - A
+E,menor,1,E,Em(add9),E - G - B - F#
+E,menor,4,A,Am9,A - C - E - G - B
+E,menor,4,A,Am11,A - C - E - G - B - D
+E,menor,5,B,Bm7b5,B - D - F# - A
+E,menor,5,B,Bm9,B - D - F# - A - C#
+E,menor,7,D,Dm9,D - F# - A - C - E
+E,menor,7,D,D11,D - F# - A - C - E - G
+E,frigia,1,E,Em,E - G - B
+E,frigia,1,E,Em7b9,E - G - B - D - F
+E,frigia,2,F,F,F - A - C
+E,frigia,3,G,Gm,G - A# - D
+E,frigia,4,A,Am,A - C - E
+E,frigia,5,B,Bdim,B - D - F
+E,frigia,6,C,C,C - E - G
+E,frigia,7,D,Dm,D - F - A
+E,frigia,1,E,Em7(b9b13),E - G - B - D - F - C
+E,frigia,2,F,Fmaj7#11,F - A - C - E - B
+E,frigia,3,G,Gm6,G - A# - D - E
+E,frigia,5,B,Bdim7,B - D - F - A#
+E,frigia,7,D,Dm7(b5),D - F - A - C
+E,armonica,1,E,EmMaj7,E - G - B - D#
+E,armonica,1,E,EmMaj9,E - G - B - D# - F#
+E,armonica,2,F#,F#dim,F# - A - C
+E,armonica,3,G,Gaug,G - B - D#
+E,armonica,4,A,Am,A - C - E
+E,armonica,5,B,B7,B - D# - F# - A
+E,armonica,5,B,B9,B - D# - F# - A - C#
+E,armonica,6,C,C,C - E - G
+E,armonica,7,D#,D#dim,D# - F# - A
+E,armonica,1,E,EmMaj9#11,E - G - B - D# - F# - A#
+E,armonica,3,G,Gaug7,G - B - D# - F
+E,armonica,4,A,AmMaj7,A - C - E - G#
+E,armonica,5,B,B7alt,B - D# - F# - A - C
+E,armonica,7,D#,D#m7b5,D# - F# - A - C#
+F,menor,,F,Fm,F - G# - C
+F,menor,,G,Gdim,G - A# - C#
+F,menor,,G#,G#,G# - C - D#
+F,menor,,A#,A#m,A# - C# - F
+F,menor,,C,Cm,C - D# - G
+F,menor,,C#,C#,C# - F - G#
+F,menor,,D#,D#,D# - G - A#
+F,frigia,,F,Fm,F - G# - C
+F,frigia,,F#,F#,F# - A# - C#
+F,frigia,,G#,G#m,G# - B - D#
+F,frigia,,A#,A#m,A# - C# - F
+F,frigia,,C,Cdim,C - D# - F#
+F,frigia,,C#,C#,C# - F - G#
+F,frigia,,D#,D#m,D# - F# - A#
+F,armonica,,F,FmMaj7,F - G# - C - E
+F,armonica,,G,Gdim,G - A# - C#
+F,armonica,,G#,G#aug,G# - C - E
+F,armonica,,A#,A#m,A# - C# - F
+F,armonica,,C,C7,C - E - G - A#
+F,armonica,,C#,C#,C# - F - G#
+F,armonica,,E,Edim,E - G - A#
+F#,menor,,F#,F#m,F# - A - C#
+F#,menor,,G#,G#dim,G# - B - D
+F#,menor,,A,A,A - C# - E
+F#,menor,,B,Bm,B - D - F#
+F#,menor,,C#,C#m,C# - E - G#
+F#,menor,,D,D,D - F# - A
+F#,menor,,E,E,E - G# - B
+F#,frigia,,F#,F#m,F# - A - C#
+F#,frigia,,G,G,G - B - D
+F#,frigia,,A,Am,A - C - E
+F#,frigia,,B,Bm,B - D - F#
+F#,frigia,,C#,C#dim,C# - E - G
+F#,frigia,,D,D,D - F# - A
+F#,frigia,,E,Em,E - G - B
+F#,armonica,,F#,F#mMaj7,F# - A - C# - F
+F#,armonica,,G#,G#dim,G# - B - D
+F#,armonica,,A,Aaug,A - C# - F
+F#,armonica,,B,Bm,B - D - F#
+F#,armonica,,C#,C#7,C# - F - G# - B
+F#,armonica,,D,D,D - F# - A
+F#,armonica,,F,Fdim,F - G# - B
+G,menor,,G,Gm,G - A# - D
+G,menor,,A,Adim,A - C - D#
+G,menor,,A#,A#,A# - D - F
+G,menor,,C,Cm,C - D# - G
+G,menor,,D,Dm,D - F - A
+G,menor,,D#,D#,D# - G - A#
+G,menor,,F,F,F - A - C
+G,frigia,,G,Gm,G - A# - D
+G,frigia,,G#,G#,G# - C - D#
+G,frigia,,A#,A#m,A# - C# - F
+G,frigia,,C,Cm,C - D# - G
+G,frigia,,D,Ddim,D - F - G#
+G,frigia,,D#,D#,D# - G - A#
+G,frigia,,F,Fm,F - G# - C
+G,armonica,,G,GmMaj7,G - A# - D - F#
+G,armonica,,A,Adim,A - C - D#
+G,armonica,,A#,A#aug,A# - D - F#
+G,armonica,,C,Cm,C - D# - G
+G,armonica,,D,D7,D - F# - A - C
+G,armonica,,D#,D#,D# - G - A#
+G,armonica,,F#,F#dim,F# - A - C
+G#,menor,,G#,G#m,G# - B - D#
+G#,menor,,A#,A#dim,A# - C# - E
+G#,menor,,B,B,B - D# - F#
+G#,menor,,C#,C#m,C# - E - G#
+G#,menor,,D#,D#m,D# - F# - A#
+G#,menor,,E,E,E - G# - B
+G#,menor,,F#,F#,F# - A# - C#
+G#,frigia,,G#,G#m,G# - B - D#
+G#,frigia,,A,A,A - C# - E
+G#,frigia,,B,Bm,B - D - F#
+G#,frigia,,C#,C#m,C# - E - G#
+G#,frigia,,D#,D#dim,D# - F# - A
+G#,frigia,,E,E,E - G# - B
+G#,frigia,,F#,F#m,F# - A - C#
+G#,armonica,,G#,G#mMaj7,G# - B - D# - G
+G#,armonica,,A#,A#dim,A# - C# - E
+G#,armonica,,B,Baug,B - D# - G
+G#,armonica,,C#,C#m,C# - E - G#
+G#,armonica,,D#,D#7,D# - G - A# - C#
+G#,armonica,,E,E,E - G# - B
+G#,armonica,,G,Gdim,G - A# - C#
+A,menor,,A,Am,A - C - E
+A,menor,,B,Bdim,B - D - F
+A,menor,,C,C,C - E - G
+A,menor,,D,Dm,D - F - A
+A,menor,,E,Em,E - G - B
+A,menor,,F,F,F - A - C
+A,menor,,G,G,G - B - D
+A,frigia,,A,Am,A - C - E
+A,frigia,,A#,A#,A# - D - F
+A,frigia,,C,Cm,C - D# - G
+A,frigia,,D,Dm,D - F - A
+A,frigia,,E,Edim,E - G - A#
+A,frigia,,F,F,F - A - C
+A,frigia,,G,Gm,G - A# - D
+A,armonica,,A,AmMaj7,A - C - E - G#
+A,armonica,,B,Bdim,B - D - F
+A,armonica,,C,Caug,C - E - G#
+A,armonica,,D,Dm,D - F - A
+A,armonica,,E,E7,E - G# - B - D
+A,armonica,,F,F,F - A - C
+A,armonica,,G#,G#dim,G# - B - D
+A#,menor,,A#,A#m,A# - C# - F
+A#,menor,,C,Cdim,C - D# - F#
+A#,menor,,C#,C#,C# - F - G#
+A#,menor,,D#,D#m,D# - F# - A#
+A#,menor,,F,Fm,F - G# - C
+A#,menor,,F#,F#,F# - A# - C#
+A#,menor,,G#,G#,G# - C - D#
+A#,frigia,,A#,A#m,A# - C# - F
+A#,frigia,,B,B,B - D# - F#
+A#,frigia,,C#,C#m,C# - E - G#
+A#,frigia,,D#,D#m,D# - F# - A#
+A#,frigia,,F,Fdim,F - G# - B
+A#,frigia,,F#,F#,F# - A# - C#
+A#,frigia,,G#,G#m,G# - B - D#
+A#,armonica,,A#,A#mMaj7,A# - C# - F - A
+A#,armonica,,C,Cdim,C - D# - F#
+A#,armonica,,C#,C#aug,C# - F - A
+A#,armonica,,D#,D#m,D# - F# - A#
+A#,armonica,,F,F7,F - A - C - D#
+A#,armonica,,F#,F#,F# - A# - C#
+A#,armonica,,A,Adim,A - C - D#
+B,menor,,B,Bm,B - D - F#
+B,menor,,C#,C#dim,C# - E - G
+B,menor,,D,D,D - F# - A
+B,menor,,E,Em,E - G - B
+B,menor,,F#,F#m,F# - A - C#
+B,menor,,G,G,G - B - D
+B,menor,,A,A,A - C# - E
+B,frigia,,B,Bm,B - D - F#
+B,frigia,,C,C,C - E - G
+B,frigia,,D,Dm,D - F - A
+B,frigia,,E,Em,E - G - B
+B,frigia,,F#,F#dim,F# - A - C
+B,frigia,,G,G,G - B - D
+B,frigia,,A,Am,A - C - E
+B,armonica,,B,BmMaj7,B - D - F# - A#
+B,armonica,,C#,C#dim,C# - E - G
+B,armonica,,D,Daug,D - F# - A#
+B,armonica,,E,Em,E - G - B
+B,armonica,,F#,F#7,F# - A# - C# - E
+B,armonica,,G,G,G - B - D
+B,armonica,,A#,A#dim,A# - C# - E
+C,menor,1,C,Cm7,C - D# - G - A#
+C,menor,1,C,Cm9,C - D# - G - A# - D
+C,menor,1,C,Cm11,C - D# - G - A# - D - F
+C,menor,2,D,Dm7b5,D - F - G# - C
+C,menor,4,F,Fm7,F - G# - C - D#
+C,menor,5,G,Gm7,G - A# - D - F
+C,menor,7,A#,A#7,A# - D - F - G#
+C,frigia,1,C,Cm7b9,C - D# - G - A# - C#
+C,frigia,3,D#,D#m7,D# - F# - A# - C#
+C,frigia,4,F,Fm7,F - G# - C - D#
+C,frigia,6,G#,G#7,G# - C - D# - F#
+C,armonica,1,C,CmMaj9,C - D# - G - B - D
+C,armonica,3,D#,D#7#5,D# - G - B - C#
+C,armonica,5,G,G9,G - B - D - F - A
+C,armonica,7,B,Bm7b5,B - D - F - A
+C#,menor,,C#,C#m7,C# - E - G# - B
+C#,menor,,C#,C#m9,C# - E - G# - B - D#
+C#,menor,,F#,F#m7,F# - A - C# - E
+C#,menor,,G#,G#m7,G# - B - D# - F#
+C#,menor,,B,B7,B - D# - F# - A
+C#,frigia,,C#,C#m7b9,C# - E - G# - B - D
+C#,frigia,,E,Em7,E - G - B - D
+C#,frigia,,A,A7,A - C# - E - G
+C#,armonica,,C#,C#mMaj9,C# - E - G# - C - D#
+C#,armonica,,E,E7#5,E - G# - C - D
+C#,armonica,,G#,G#9,G# - C - D# - F# - A#
+D,menor,,D,Dm7,D - F - A - C
+D,menor,,D,Dm9,D - F - A - C - E
+D,menor,,G,Gm7,G - A# - D - F
+D,menor,,A,Am7,A - C - E - G
+D,menor,,C,C7,C - E - G - A#
+D,frigia,,D,Dm7b9,D - F - A - C - D#
+D,frigia,,F,Fm7,F - G# - C - D#
+D,frigia,,A#,A#7,A# - D - F - G#
+D,armonica,,D,DmMaj9,D - F - A - C# - E
+D,armonica,,F,F9#5,F - A - C# - D# - G
+D,armonica,,A,A9,A - C# - E - G - B
+D#,menor,,D#,D#m7,D# - F# - A# - C#
+D#,menor,,D#,D#m9,D# - F# - A# - C# - F
+D#,menor,,G#,G#m7,G# - B - D# - F#
+D#,menor,,A#,A#m7,A# - C# - F - G#
+D#,menor,,C#,C#7,C# - F - G# - B
+D#,frigia,,D#,D#m7b9,D# - F# - A# - C# - E
+D#,frigia,,F#,F#m7,F# - A - C# - E
+D#,frigia,,B,B7,B - D# - F# - A
+D#,armonica,,D#,D#mMaj9,D# - F# - A# - D - F
+D#,armonica,,F#,F#9#5,F# - A# - D - E - G#
+D#,armonica,,A#,A#9,A# - D - F - G# - C
+E,menor,1,E,Em7,E - G - B - D
+E,menor,1,E,Em9,E - G - B - D - F#
+E,menor,4,A,Am7,A - C - E - G
+E,menor,5,B,Bm7,B - D - F# - A
+E,menor,7,D,D7,D - F# - A - C
+E,frigia,,E,Em7b9,E - G - B - D - F
+E,frigia,,G,Gm7,G - A# - D - F
+E,frigia,,C,C7,C - E - G - A#
+E,armonica,,E,EmMaj9,E - G - B - D# - F#
+E,armonica,,G,G9#5,G - B - D# - F# - A
+E,armonica,,B,B9,B - D# - F# - A - C#
+F,menor,,F,Fm7,F - G# - C - D#
+F,menor,,F,Fm9,F - G# - C - D# - G
+F,menor,,A#,A#m7,A# - C# - F - G#
+F,menor,,C,Cm7,C - D# - G - A#
+F,menor,,D#,D#7,D# - G - A# - C#
+F,frigia,,F,Fm7b9,F - G# - C - D# - F#
+F,frigia,,G#,G#m7,G# - B - D# - F#
+F,frigia,,C#,C#7,C# - F - G# - B
+F,armonica,,F,FmMaj9,F - G# - C - E - G
+F,armonica,,G#,G#9#5,G# - C - E - G - A#
+F,armonica,,C,C9,C - E - G - A# - D
+F#,menor,,F#,F#m7,F# - A - C# - E
+F#,menor,,F#,F#m9,F# - A - C# - E - G#
+F#,menor,,B,Bm7,B - D - F# - A
+F#,menor,,C#,C#m7,C# - E - G# - B
+F#,menor,,E,E7,E - G# - B - D
+F#,frigia,,F#,F#m7b9,F# - A - C# - E - G
+F#,frigia,,A,Am7,A - C - E - G
+F#,frigia,,D,D7,D - F# - A - C
+F#,armonica,,F#,F#mMaj9,F# - A - C# - F - G#
+F#,armonica,,A,A9#5,A - C# - F - G# - B
+F#,armonica,,C#,C#9,C# - F - G# - B - D#
+G,menor,,G,Gm7,G - A# - D - F
+G,menor,,G,Gm9,G - A# - D - F - A
+G,menor,,C,Cm7,C - D# - G - A#
+G,menor,,D,Dm7,D - F - A - C
+G,menor,,F,F7,F - A - C - D#
+G,frigia,,G,Gm7b9,G - A# - D - F - G#
+G,frigia,,A#,A#m7,A# - C# - F - G#
+G,frigia,,D#,D#7,D# - G - A# - C#
+G,armonica,,G,GmMaj9,G - A# - D - F# - A
+G,armonica,,A#,A#9#5,A# - D - F# - A - C
+G,armonica,,D,D9,D - F# - A - C - E
+G#,menor,,G#,G#m7,G# - B - D# - F#
+G#,menor,,G#,G#m9,G# - B - D# - F# - A#
+G#,menor,,C#,C#m7,C# - E - G# - B
+G#,menor,,D#,D#m7,D# - F# - A# - C#
+G#,menor,,F#,F#7,F# - A# - C# - E
+G#,frigia,,G#,G#m7b9,G# - B - D# - F# - A
+G#,frigia,,B,Bm7,B - D - F# - A
+G#,frigia,,E,E7,E - G# - B - D
+G#,armonica,,G#,G#mMaj9,G# - B - D# - G - A#
+G#,armonica,,B,B9#5,B - D# - G - A# - C#
+G#,armonica,,D#,D#9,D# - G - A# - C# - F
+A,menor,,A,Am7,A - C - E - G
+A,menor,,A,Am9,A - C - E - G - B
+A,menor,,D,Dm7,D - F - A - C
+A,menor,,E,Em7,E - G - B - D
+A,menor,,G,G7,G - B - D - F
+A,frigia,,A,Am7b9,A - C - E - G - A#
+A,frigia,,C,Cm7,C - D# - G - A#
+A,frigia,,F,F7,F - A - C - D#
+A,armonica,,A,AmMaj9,A - C - E - G# - B
+A,armonica,,C,C9#5,C - E - G# - B - D
+A,armonica,,E,E9,E - G# - B - D - F#
+A#,menor,,A#,A#m7,A# - C# - F - G#
+A#,menor,,A#,A#m9,A# - C# - F - G# - C
+A#,menor,,D#,D#m7,D# - F# - A# - C#
+A#,menor,,F,Fm7,F - G# - C - D#
+A#,menor,,G#,G#7,G# - C - D# - F#
+A#,frigia,,A#,A#m7b9,A# - C# - F - G# - B
+A#,frigia,,C#,C#m7,C# - E - G# - B
+A#,frigia,,F#,F#7,F# - A# - C# - E
+A#,armonica,,A#,A#mMaj9,A# - C# - F - A - C
+A#,armonica,,C#,C#9#5,C# - F - A - C - E
+A#,armonica,,F,F9,F - A - C - D# - G
+B,menor,,B,Bm7,B - D - F# - A
+B,menor,,B,Bm9,B - D - F# - A - C#
+B,menor,,E,Em7,E - G - B - D
+B,menor,,F#,F#m7,F# - A - C# - E
+B,menor,,A,A7,A - C# - E - G
+B,frigia,,B,Bm7b9,B - D - F# - A - C
+B,frigia,,D,Dm7,D - F - A - C
+B,frigia,,G,G7,G - B - D - F
+B,armonica,,B,BmMaj9,B - D - F# - A# - C#
+B,armonica,,D,D9#5,D - F# - A# - C# - E
+B,armonica,,F#,F#9,F# - A# - C# - E - G#
