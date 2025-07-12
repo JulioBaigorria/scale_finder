@@ -20,7 +20,7 @@ En la raiz del proyecto, en la consola, escribir:
 
 `python main.py`
 
-![input example image](https://i.imgur.com/GLgqiK.png)
+![input example image](https://i.imgur.com/lGLgqiK.jpg)
 
 ## Ejemplo Salida
 
