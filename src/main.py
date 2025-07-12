@@ -1,8 +1,12 @@
 import csv
 import random
 from typing import List, Dict, TypedDict, Literal
+from pathlib import Path
 
 from utils import print_chords_table
+
+BASE_DIR = Path(__file__).parent.parent  # Asume que main.py está en src/
+DATA_PATH = BASE_DIR / "data" / "DATABASE.csv"
 
 # Definición de tipos
 RootNote = Literal[
@@ -47,7 +51,7 @@ def get_scale_chords(
     chords_data: List[ChordData] = []
     note_chords: Dict[str, List[ChordData]] = {}
     
-    with open('DATABASE.csv', mode='r', encoding='utf-8') as file:
+    with open(DATA_PATH, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
             csv_row: CSVRow = row  # type: ignore
