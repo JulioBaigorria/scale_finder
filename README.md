@@ -28,17 +28,8 @@ Available Scales: {'frigia', 'armonica', 'menor'} (Dado una Root note, buscara l
 Scale name: menor
 
 ## Ejemplo Salida
-╔════════════╦═══════╦════════════════════╗
-║ Scale Note ║ Chord ║ Chord Notes        ║
-╠════════════╬═══════╬════════════════════╣
-║ E          ║ Em7   ║ E - G - B - D      ║
-║ F#         ║ F#dim ║ F# - A - C         ║
-║ G          ║ G     ║ G - B - D          ║
-║ A          ║ Am7   ║ A - C - E - G      ║
-║ B          ║ Bm7b5 ║ B - D - F# - A     ║
-║ C          ║ C     ║ C - E - G          ║
-║ D          ║ Dm9   ║ D - F# - A - C - E ║
-╚════════════╩═══════╩════════════════════╝
+
+![example image](https://imgur.com/a/3TX5bb7 "example link")
 
 
 ## Sobre aporte y el software
