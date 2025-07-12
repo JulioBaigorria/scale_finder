@@ -99,8 +99,7 @@ E,menor,1,E,Em11,E - G - B - D - F# - A
 E,menor,1,E,Em(add9),E - G - B - F#
 E,menor,4,A,Am9,A - C - E - G - B
 E,menor,4,A,Am11,A - C - E - G - B - D
-E,menor,5,B,Bm7b5,B - D - F# - A
-E,menor,5,B,Bm9,B - D - F# - A - C#
+E,menor,5,B,Bm7#5,B - D - G - A
 E,menor,7,D,Dm9,D - F# - A - C - E
 E,menor,7,D,D11,D - F# - A - C - E - G
 E,frigia,1,E,Em,E - G - B
