@@ -20,12 +20,7 @@ En la raiz del proyecto, en la consola, escribir:
 
 `python main.py`
 
-🎼 Enter musical parameters
-Root note (C, C#, D, etc.):
-
-Available Scales: {'frigia', 'armonica', 'menor'} (Dado una Root note, buscara las disponibles y sugerirá)
-
-Scale name: menor
+![input example image](https://i.imgur.com/GLgqiK.png)
 
 ## Ejemplo Salida
 
