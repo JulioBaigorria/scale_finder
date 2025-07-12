@@ -2,10 +2,10 @@ import csv
 import random
 from pathlib import Path
 from typing import List, Dict
-from .types import RootNote, ScaleType, ChordData, CSVRow, ScaleChordsResult
+from utils.types import RootNote, ScaleType, ChordData, CSVRow, ScaleChordsResult
 
 
-BASE_DIR = Path(__file__).parent.parent
+BASE_DIR = Path(__file__).parent.parent.parent
 DATA_PATH = BASE_DIR / "data" / "DATABASE.csv"
 
 

@@ -1,5 +1,5 @@
 from typing import List
-from .types import ChordData, RootNote, ScaleType
+from utils.types import ChordData, RootNote, ScaleType
 
 
 def print_chords_table(

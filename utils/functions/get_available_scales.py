@@ -1,10 +1,10 @@
 import csv
 from pathlib import Path
 from typing import Set
-from .types import RootNote
+from utils.types import RootNote
 
 
-BASE_DIR = Path(__file__).parent.parent
+BASE_DIR = Path(__file__).parent.parent.parent
 DATA_PATH = BASE_DIR / "data" / "DATABASE.csv"
 
 

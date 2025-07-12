@@ -1,6 +1,6 @@
 import sys
 from typing import Tuple, cast
-from .types import RootNote, ScaleType
+from utils.types import RootNote, ScaleType
 from .get_available_scales import get_available_scales_for_root
 
 

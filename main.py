@@ -1,5 +1,5 @@
-from functions import get_scale_input, get_scale_chords, print_chords_table
-from functions.types import ScaleChordsResult
+from utils.functions import get_scale_input, get_scale_chords, print_chords_table
+from utils.types import ScaleChordsResult
 
 if __name__ == "__main__":
     root, scale = get_scale_input()
