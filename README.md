@@ -1,29 +1,31 @@
 # 🎵 Scale Finder
 
-![Python](https://img.shields.io/badge/python-3.8+-blue?logo=python)
-![License](https://img.shields.io/badge/license-MIT-green)
-![GitHub stars](https://img.shields.io/github/stars/tuusuario/scale-finder?style=social)
+**¿Por qué este "proyecto"?**
+La idea de Scale Finder es que dándole una **nota** y una **escala**, muestre 1 **acorde** random y válido por **nota** de la **escala**. Además cómo se compone dicho **acorde**.
 
-**Herramienta para análisis armónico musical** que genera acordes válidos en diferentes escalas y modos. Ideal para compositores, arreglistas y estudiantes de teoría musical.
+Usando este sitio [All Guitar Chords](https://www.all-guitar-chords.com/chords/identifier) (héroes sin capa)
+se puede ejercitar encontrar los acordes en el mástil.
+
 
 ## 🚀 Características Principales
-- **Búsqueda inteligente** de acordes por escala y nota raíz
-- **Soporte para 3 escalas/modos**:
-  - Menor Natural
-  - Frigio
-  - Armónica Menor
-- **Base de datos con 1000+ acordes** incluyendo extensiones (7mas, 9nas, 11vas)
-- **Salida en tablas ASCII** legibles
-- **Tipado estático** para mayor confiabilidad
+- **Sin librerías de terceros** Solo nativas de python, nada de 3ros.
+- **Búsqueda inteligente** Tampoco para taaanto...
+- **Escalas Menor, Armónica y Frigia** La idea es que hayan más en el futuro!
+- **Salida en tablas ASCII** Re linda
+- **Tipado estático** Para parecer mas profesional(?)
 
-## 📦 Estructura del Proyecto
-scale-finder/
-├── data/
-│ └── DATABASE.csv # Dataset de escalas y acordes
-├── src/
-│ ├── main.py # Lógica principal
-│ └── utils.py # Se encuentra la funcion para formatear la respuesta en tabla
-└── README.md
+## Ejemplo Entrada
+
+En la raiz del proyecto, en la consola, escribir: 
+
+`python main.py`
+
+🎼 Enter musical parameters
+Root note (C, C#, D, etc.):
+
+Available Scales: {'frigia', 'armonica', 'menor'} (Dado una Root note, buscara las disponibles y sugerirá)
+
+Scale name: menor
 
 ## Ejemplo Salida
 ╔════════════╦═══════╦════════════════════╗
@@ -37,3 +39,16 @@ scale-finder/
 ║ C          ║ C     ║ C - E - G          ║
 ║ D          ║ Dm9   ║ D - F# - A - C - E ║
 ╚════════════╩═══════╩════════════════════╝
+
+
+## Sobre aporte y el software
+Es público, de libre uso, clonalo y haz con él lo que quieras. Lo que importa es pensar en la comunidad.
+
+## Si vas a agregar acordes, asegúrate de:
+- **Respetar la estructura de datos del archivo CSV**
+- **Agregar acordes válidos para la escala** El software escrito en el proyecto no puede validar si un acorde pertenece o no a una escala.
+Por el momento es algo que se debe hacer a conciencia.
+
+## Si vas a modificar el código, asegúrate de:
+- **Respetar el tipado** Se puede mejorar
+- **Mantenerlo simple** Se puede mejorar
