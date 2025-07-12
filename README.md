@@ -29,7 +29,7 @@ Scale name: menor
 
 ## Ejemplo Salida
 
-![example image](https://imgur.com/a/3TX5bb7 "example link")
+[Imgur](https://imgur.com/T0wlDF5)
 
 
 ## Sobre aporte y el software
